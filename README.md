@@ -1,4 +1,5 @@
-https://www.notion.so/1-1439d23dd141809abb5eccc56214c8b5 (notion Attention is all you need Review)
+https://www.notion.so/1-1439d23dd141809abb5eccc56214c8b5 
+(notion Attention is all you need Review) + 감정분석 결과
 
 # Abstract
 
